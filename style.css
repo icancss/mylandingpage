@@ -228,6 +228,8 @@ td:last-child {
 Footer Area */
 
 footer {
+  position: sticky;
+  bottom: 0;
   background-image: linear-gradient(to bottom right, rgba(121, 90, 66, 0.473), rgb(46, 27, 3));
   display: flex;
   align-items: center;
